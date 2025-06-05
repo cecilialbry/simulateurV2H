@@ -1,4 +1,4 @@
-# Évolution du simulateur V2H – Semaines 1 à 11
+# Évolution du simulateur V2H – Semaines 1 à 10
 
 ## 🔹 Semaine 1
 - Début du développement d’une application Streamlit pour simuler le comportement d’un VE dans un système énergétique.
